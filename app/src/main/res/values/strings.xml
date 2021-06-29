@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">covid viewer</string>
+    <string-array name="daerah">
+        <item>daerah anda</item>
+        <item>DKI Jakarta</item>
+        <item>Jawa Barat</item>
+        <item>Jawa Tengah</item>
+        <item>Jawa Timur</item>
+        <item>Bali</item>
+    </string-array>
+</resources>
